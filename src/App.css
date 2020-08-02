@@ -2,3 +2,16 @@ body {
   font-family: "Open Sans Condensed";
   padding: 20px 60px;
 }
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color: #888;
+}
+
+* {
+  box-sizing: border-box;
+}
